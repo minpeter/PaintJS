@@ -1,1 +1,1 @@
-# paintjs
+# PaintJS
